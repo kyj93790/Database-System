@@ -1,6 +1,10 @@
 Goal : The goal of this projet is to provide a realistic experience in the conceptual design, logical design, implementation, operation, and maintenance of a realational database and associated applications.
 
+
 General Motors, Ford, Toyota, Volkswagen과 같은 자동차 회사의 데이터 베이스를 구축.
+Relational Schema를 설계하고, 이를 바탕으로 Physical Schema Diagram 작성.
+다양한 Query문에 맞게 데이터를 추출가능한 코드를 MySQL을 통해 작성.
+
 
 vehicles	: Each vehicles as a vehicle indentification number (VIN).
 
